@@ -1,0 +1,11 @@
+C:\Users\Wen\Documents\Projects\OpenSource\Wen.MyLog\Wen.MyLog.ConsoleApp\bin\Debug\Wen.MyLog.ConsoleApp.exe.config
+C:\Users\Wen\Documents\Projects\OpenSource\Wen.MyLog\Wen.MyLog.ConsoleApp\bin\Debug\Wen.MyLog.ConsoleApp.exe
+C:\Users\Wen\Documents\Projects\OpenSource\Wen.MyLog\Wen.MyLog.ConsoleApp\bin\Debug\Wen.MyLog.ConsoleApp.pdb
+C:\Users\Wen\Documents\Projects\OpenSource\Wen.MyLog\Wen.MyLog.ConsoleApp\bin\Debug\Wen.MyLog.dll
+C:\Users\Wen\Documents\Projects\OpenSource\Wen.MyLog\Wen.MyLog.ConsoleApp\bin\Debug\log4net.dll
+C:\Users\Wen\Documents\Projects\OpenSource\Wen.MyLog\Wen.MyLog.ConsoleApp\bin\Debug\Wen.MyLog.pdb
+C:\Users\Wen\Documents\Projects\OpenSource\Wen.MyLog\Wen.MyLog.ConsoleApp\bin\Debug\log4net.xml
+C:\Users\Wen\Documents\Projects\OpenSource\Wen.MyLog\Wen.MyLog.ConsoleApp\obj\Debug\Wen.MyLog.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Wen\Documents\Projects\OpenSource\Wen.MyLog\Wen.MyLog.ConsoleApp\obj\Debug\Wen.MyLog.ConsoleApp.exe
+C:\Users\Wen\Documents\Projects\OpenSource\Wen.MyLog\Wen.MyLog.ConsoleApp\obj\Debug\Wen.MyLog.ConsoleApp.pdb
+C:\Users\Wen\Documents\Projects\OpenSource\Wen.MyLog\Wen.MyLog.ConsoleApp\bin\Debug\log4net.config
