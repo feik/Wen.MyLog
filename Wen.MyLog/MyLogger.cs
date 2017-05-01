@@ -12,6 +12,9 @@ using log4net.Config;
 
 namespace Wen.MyLog
 {
+    /// <summary>
+    /// 日志记录器类
+    /// </summary>
     public class MyLogger
     {
         private static readonly MyLogger Logger;
@@ -86,19 +89,19 @@ namespace Wen.MyLog
                         return;
                     break;
                 case LogLevel.Info:
-                    if (Log.IsInfoEnabled)
+                    if (!Log.IsInfoEnabled)
                         return;
                     break;
                 case LogLevel.Warn:
-                    if (Log.IsWarnEnabled)
+                    if (!Log.IsWarnEnabled)
                         return;
                     break;
                 case LogLevel.Error:
-                    if (Log.IsErrorEnabled)
+                    if (!Log.IsErrorEnabled)
                         return;
                     break;
                 case LogLevel.Fatal:
-                    if (Log.IsFatalEnabled)
+                    if (!Log.IsFatalEnabled)
                         return;
                     break;
                 default:
