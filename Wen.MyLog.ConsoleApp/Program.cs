@@ -33,7 +33,6 @@ namespace Wen.MyLog.ConsoleApp
 
             var t2 = watch.ElapsedMilliseconds;
             Console.WriteLine($"t2 - t1: {t2 - t1}");
-
             Console.Read();
         }
     }
