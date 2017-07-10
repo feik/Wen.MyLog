@@ -12,7 +12,3 @@
             MyLogger.Error("");
             MyLogger.Fatal("");
             MyLogger.Warn("");
-```
-
-
-#### 参考 http://www.cnblogs.com/emrys5/p/6693454.html 
